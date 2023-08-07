@@ -1,1 +1,1 @@
-All my Machine Learning Projects performed during my Internship I have posted here
+Some of the Machine Learning Projects and Models created during my Internship I have posted here
